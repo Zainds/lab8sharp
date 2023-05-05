@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\bin\Debug\lab8sharp.exe
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\bin\Debug\lab8sharp.pdb
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\obj\Debug\lab8sharp.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\obj\Debug\lab8sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\obj\Debug\lab8sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\obj\Debug\lab8sharp.exe
+C:\Users\Admin\RiderProjects\lab8sharp\lab8sharp\obj\Debug\lab8sharp.pdb
